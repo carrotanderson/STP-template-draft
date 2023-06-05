@@ -8,7 +8,7 @@ author: <a list of the author's or authors' name(s) and/or username(s), or name(
 implementor: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 release: (Release Name)
 implementation-date:
-discussions-to: <Create a new thread in the discord (#sip-forum)[https://discord.com/channels/413890591840272394/1062852710371704852] and drop the link here>
+discussions-to: <Create a new thread in the discord and drop the link here> [#sip-forum](https://discord.com/channels/413890591840272394/1062852710371704852)
 proposal: <snapshot.org proposal link> (*optional)
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires: <STP number(s)> (*optional)
