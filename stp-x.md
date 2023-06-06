@@ -41,9 +41,8 @@ This is the problem statement. This is the _why_ of the STP. It should clearly e
 <!--The specification should describe the syntax and semantics of any new feature, there are five sections
 1. Overview
 2. Rationale
-3. Technical Specification
-4. Test Cases
-5. Configurable Values
+3. Financial Specification
+4. Configurable Values
 -->
 
 ### Overview
